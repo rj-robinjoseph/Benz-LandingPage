@@ -14,23 +14,23 @@ function App() {
           <img src={search} className="search" alt="" />
       </div>
       <div className="container">
-        <h1 className="heading">The All New <span className="big-h1">S-Class</span></h1>
+         <h1 className="heading">The All New <span className="big-h1">S-Class</span></h1>
       </div>
       <div className="container">
-        <img src={image} className="image" alt="" />
+         <img src={image} className="image" alt="" />
       </div>
       <div className="w-layout-grid grid">
         <div className="feature-box">
-          <h1 className="feature-heading">Luxury</h1>
-          <div className="text-block block-1">The greatest refinement out there paired with technological brilliance.</div>
+           <h1 className="feature-heading">Luxury</h1>
+           <div className="text-block block-1">The greatest refinement out there paired with technological brilliance.</div>
         </div>
         <div className="feature-box">
-          <h1 className="feature-heading">362 hp</h1>
-          <div className="text-block block-2">The S-class has plenty of punch when driven at full tilt on the Autobahn.</div>
+           <h1 className="feature-heading">362 hp</h1>
+           <div className="text-block block-2">The S-class has plenty of punch when driven at full tilt on the Autobahn.</div>
         </div>
         <div className="feature-box last-box">
-          <h1 className="feature-heading">Twin turbo</h1>
-          <div className="text-block block-3">Simultaneous performance and luxury. A unique unmatched synergy.</div>
+           <h1 className="feature-heading">Twin turbo</h1>
+           <div className="text-block block-3">Simultaneous performance and luxury. A unique unmatched synergy.</div>
         </div>
       </div>
 
